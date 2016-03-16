@@ -1,0 +1,53 @@
+\documentclass{article}
+\usepackage{amssymb,amsmath,hyperref}
+\begin{document}
+
+\section*{Thomas ``Adam'' Pippert $\circ$
+1819 SW 5th Ave \#203 $\circ$
+Portland OR 97201}
+\href{tel:+15038479834}{(503) 847-9834} $\circ$
+\href{mailto:adam.pippert@gmail.com}{adam.pippert@gmail.com}
+
+\section*{EDUCATION}
+
+$\bullet$ Oregon State University - pursuing BS in Computer Science\\
+$  \circ$ Expected graduation date August 2015.\\
+$\bullet$ Roanoke College - BA in Music Composition\\
+$  \circ$ Attended August 1999 - May 2003\\
+
+\section*{TECHNICAL SKILL}
+
+$\bullet$ \textbf{Operating Systems:} RHEL, CentOS, Fedora, SLES, OSX, Microsoft Windows 7/8/2008/2012\\
+$\bullet$ \textbf{Software:} Apache https/tomcat, PuTTY, MySQL, Visual Studio, emacs\\
+$\bullet$ \textbf{Programming:} C, C++, Python, Java, AutoIT, bash, HTML/CSS, JavaScript\\
+
+\section*{EXPERIENCE}
+
+\subsection*{Intel Corporation - Technical Marketing Engineer Intern}
+\subsubsection*{June 2014-present}
+
+$\bullet$ Validated and launched Internet of Things Gateway package for Intel NUC
+$\bullet$ Wind River Linux custom configurations for Intel Celeron and Atom based NUC products
+$\bullet$ Built working proof of concept demos for Intel NUC use cases 
+$\bullet$ Collaborated with product marketing groups to create videos highlighting technical features of Intel NUC products
+
+
+\subsection*{Intel Corporation - Performance Test Engineering Intern}
+\subsubsection*{Dec 2012-June 2014}
+
+$\bullet$ Developed SPECwpc workstation benchmark as a member of the SPECwpc working group
+$\bullet$ Reviewed C and Python code for benchmark packages
+$\bullet$ Tested configuration and setup of low-power high-density server )
+$\bullet$ Created virtualized and non-virtualized setups of SPECjbb, SPECweb, and other benchmarks for microserver platforms on Intel and ARM architectures
+$\bullet$ Creating a microserver tailored virtualization benchmark for internal and OEM use to analyze the ARM threat and IA advantage in this space
+
+\subsection*{Business Education Compact - Lab Administrator}
+\subsubsection*{April-Dec 2012}
+
+$\bullet$ Maintained fileservers and remote test servers for Platform Launch and Scale Engineering Lab
+$\bullet$ Troubleshooting access and hardware issues for users in local and remote locations
+$\bullet$ Created and maintained inventory for high-value inventory
+$\bullet$ Set up synchronization of IT-maintained shares and local fileservers
+
+\end{document}
+
